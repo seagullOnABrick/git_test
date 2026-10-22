@@ -1,2 +1,3 @@
 # git_test
-test git functionalities 
+Repository used to test git functionalities 
+tutoriel : The Odin Project
